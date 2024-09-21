@@ -1,0 +1,65 @@
+.header{
+    background-color:gray;
+    width:100%;
+    height:300px;   
+    text-align:center;
+    
+}
+.LOGO{
+    font-family:Arial, sans-serif;
+    font-size:36px;
+    text-align:left;
+}
+.nav{
+    alignment :center;
+    
+              
+}
+.btn{
+    margin-left:80%;
+    mar10in
+    margin-button:1;-top:5%;
+}
+.button{
+    font-size:larger;
+    background-color:rgb(168, 211, 249);
+    border-color:blanchebalmond;
+    border-radius:5px;
+    width: 20%;
+    height: 20%;
+    left:50%;
+
+}
+
+.body {
+    background: orange;
+    width:100%;
+    auto: 500px;
+    text-align:center;
+}
+
+.h1{
+    alignment:center;     
+}
+
+content {
+    display:flex;
+    justify-content:center;
+    
+    
+}
+    
+img{
+    height: 250px;
+    width: 310px;
+    margin-top:7%;
+    
+}    
+        
+.footer{
+    background-color:gray;
+    width:100%;
+    height:100px; 
+    padding:0;   
+    margin: 0;
+}
